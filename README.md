@@ -8,8 +8,8 @@ It is a virtual social website program. It includes following practices:
 
 # 社交網站
 這是一個虛擬的社交網站專案，包含以下實作:
-- 串接API (Ajax Request + DOM event)用 axios 發送 GET Requests
+- 串接API (Ajax Request + DOM event)
 - Search bar實作(無論大小寫都可以搜尋)
 - 收藏清單 (local storage應用)
 - 分頁器 (搭配DOM，只顯示該分頁的資料)
-- 切換成清單模式(表格實作) 
+- 照片模式、清單模式相互切換。
